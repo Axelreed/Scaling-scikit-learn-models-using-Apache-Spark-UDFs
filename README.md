@@ -1,2 +1,2 @@
-##### Scoring Scikit-Learn ML models using Apache Spark UDFs
+### Scoring Scikit-Learn ML models using Apache Spark UDFs
 This code demonstrates how to score python scikit-learn ML models at scale using Spark. The code utilizes the strengths of scikit learn in terms of its provision of multiple ML packages and Spark's ability to scale functions and data wrangling tasks. This way an ML models and pipelines developed on a few thousand datasets could be deployed for scoring hundreds of millions of rows of data. 
